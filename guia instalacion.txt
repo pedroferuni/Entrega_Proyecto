@@ -1,0 +1,11 @@
+1)Si no la tenemos debemos descargar la maquina virtual de java de la pagian oficial de Oracle
+https://www.oracle.com/es/java/technologies/downloads/#java21 
+se debe elegir el entorno del SO requerido ( windws, Linux, ..)
+2) Instalar en el directorio que queramos siguiendo los pasos del instalador
+3) Comprobar que tenemos uan version instalado abriendo un terminal y ejecutando el comando:
+java - version
+Nos tiene qued evolver algo parecido a esto:
+java version "21.0.6" 2025-01-21 LTS
+Java(TM) SE Runtime Environment (build 21.0.6+8-LTS-188)
+Java HotSpot(TM) 64-Bit Server VM (build 21.0.6+8-LTS-188, mixed mode, sharing)
+4)java -jar wcr.jar

@@ -15,4 +15,7 @@ Java(TM) SE Runtime Environment (build 21.0.6+8-LTS-188)
 Java HotSpot(TM) 64-Bit Server VM (build 21.0.6+8-LTS-188, mixed mode, sharing)
 
 4) descargar de la rujta de git https://github.com/pedroferuni/Entrega_Proyecto todo el contenido en una carpeta del sistema
-5) ir a esa carpeta del sistema y ejecuta la aplicacion con estge comando : java -jar wcr.jar
+5) Abrir un terminal ir a esa carpeta del sistema y ejecuta la aplicacion con este comando : java -jar wcr.jar
+6) acceder a la aplicación con 
+Usuario:ana.gomez@hotmail.com
+Password:contrasinal 

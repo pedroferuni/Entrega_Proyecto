@@ -8,4 +8,4 @@ COPY sql.sql sql.sql
 COPY public public
 
 # Comando para iniciar tu app
-CMD ["java", "-jar", "wcr.jar"]
+CMD ["java", "-jar", "wcr-09.jar"]
